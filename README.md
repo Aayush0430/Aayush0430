@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aaush22222@gmail.com
-- 😄 prajapatiaayush.com.np
-- ⚡ Fun fact: aayush0430.github.io/areyou
+- 😄 
+- ⚡ Fun fact: earth is not flat..
 
 <!---
 Aayush0430/Aayush0430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
