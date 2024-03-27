@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aaush22222@gmail.com
-- 😄 
+- 😄 prajapatiaayush.com.np
 - ⚡ Fun fact: aayush0430.github.io/areyou
 
 <!---
