@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aayush0430
-- 👀 I’m interested in Web Development..
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: aaush22222@gmail.com
+> - <h1>👋 Hi, I’m @Aayush0430</h1>h1>
+> - 👀 I’m interested in Web Development..
+> - 🌱 I’m currently learning React
+> - 💞️ I’m looking to collaborate on ...
+> - 📫 How to reach me: aaush22222@gmail.com
 - 😄 
 - ⚡ Fun fact: earth is not flat..
 
