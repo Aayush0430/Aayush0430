@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush0430&label=Profile%20views&color=0e75b6&style=flat" alt="aayush0430" /> </p>
 
-- 👨‍💻 My Portfolio prajapatiaayush.com.np
-
-- 📫 How to reach me **aaush22222@gmail.com**
-
-- ⚡ Fun fact:  **Why was the web developer cold? Because he forgot to close the Windows!**
+👨‍💻 Portfolio <a href="prajapatiaayush.com" target="blank">
+📫 Reach me **aaush22222@gmail.com**
+⚡ Fun fact:  **Why was the web developer cold? Because he forgot to close the Windows!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aayush0430&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush0430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=aayush0430&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
