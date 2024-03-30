@@ -1,4 +1,4 @@
-> - <h2>👋 Hi, I’m @Aayush0430</h2>
+> - <h2>👋 Hi, I’m Aayush</h2>
 > - 👀 I’m interested in Web Development..
 > - 🌱 I’m currently learning React
 > - 💞️ I’m looking to collaborate on ...
