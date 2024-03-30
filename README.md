@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush0430&label=Profile%20views&color=0e75b6&style=flat" alt="aayush0430" /> </p>
 
-- 👨‍💻 All of my projects are available at [prajapatiaayush.com.np](prajapatiaayush.com.np)
+- 👨‍💻 My Portfolio [prajapatiaayush.com.np](prajapatiaayush.com.np)
 
 - 📫 How to reach me **aaush22222@gmail.com**
 
-- ⚡ Fun fact **Why was the web developer cold? Because he forgot to close the Windows!**
+- ⚡ Fun fact:
+-  **Why was the web developer cold? Because he forgot to close the Windows!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
