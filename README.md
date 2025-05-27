@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush0430&label=Profile%20views&color=0e75b6&style=flat" alt="aayush0430" /> </p>
 
 👨‍💻 Portfolio <a href="https://prajapatiaayush.com.np" target="_blank">prajapatiaayush.com.np</a><br>
-📫 Reach me **aaush22222@gmail.com**<br>
+📫 Reach me **aayush.prajapati0430@gmail.com**<br>
 ⚡ Fun fact:  **Why was the web developer cold? Because he forgot to close the Windows!**
 
 <h3 align="left">Connect with me:</h3>
